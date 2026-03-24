@@ -1,0 +1,8 @@
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic-settings>=2.2.0
+langdetect>=1.0.9
+langid>=1.1.6
+nltk>=3.8.0
+textblob>=0.18.0
+pandas>=2.2.0
