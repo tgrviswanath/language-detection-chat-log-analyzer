@@ -1,0 +1,20 @@
+[10:02] Alice: Good morning everyone! How is everyone doing today?
+[10:03] Bob: Bonjour Alice! Je vais très bien, merci. Et toi?
+[10:04] Carlos: Buenos días! Todo bien por aquí. ¿Cómo estuvo el fin de semana?
+[10:05] Alice: It was great! I went hiking in the mountains. The weather was perfect.
+[10:06] Yuki: おはようございます！週末はどうでしたか？
+[10:07] Bob: C'était magnifique! J'ai visité le musée du Louvre avec ma famille.
+[10:08] Carlos: Qué envidia! Yo me quedé en casa trabajando en un proyecto.
+[10:09] Alice: That sounds tough Carlos. At least the project is moving forward!
+[10:10] Dmitri: Доброе утро всем! Как дела?
+[10:11] Bob: Très bien Dmitri! On parle de nos week-ends. Le tien était comment?
+[10:12] Dmitri: Отлично! Я ходил на концерт классической музыки. Было замечательно.
+[10:13] Yuki: それは素晴らしいですね！私は映画を見ました。
+[10:14] Alice: Sounds like everyone had a wonderful weekend! Ready for the week ahead?
+[10:15] Carlos: ¡Sí! Tenemos mucho trabajo pero estoy motivado.
+[10:16] Bob: Absolument! Commençons cette semaine avec énergie!
+[10:17] Fatima: مرحبا بالجميع! كيف حالكم؟
+[10:18] Alice: Welcome Fatima! We were just sharing our weekend stories.
+[10:19] Fatima: رائع! قضيت عطلة النهاية مع العائلة. كان ممتعاً جداً.
+[10:20] Dmitri: Это звучит замечательно! Семья — это самое важное.
+[10:21] Yuki: そうですね。家族との時間は大切です。
